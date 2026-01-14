@@ -3,3 +3,7 @@ connection:
 ZMPT sensor "5V, A0, GND"
 ACS sensor "5V, A1, GND"
 Relay "5V, D7, GND"
+
+
+**Specifications:**
+This smart meter is designed for high loads only (>50W)
