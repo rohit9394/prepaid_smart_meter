@@ -59,7 +59,6 @@
 | NO      | Load           |
 | Neutral | Direct to load |
 
-👉 **Do NOT use NC unless you understand behavior**
 
 ---
 
@@ -80,7 +79,7 @@
 
 | RFID     | Arduino         |
 | -------- | --------------- |
-| SDA (SS) | D8 ⚠️ (NOT D10) |
+| SDA (SS) | D8  |
 | SCK      | D13             |
 | MOSI     | D11             |
 | MISO     | D12             |
