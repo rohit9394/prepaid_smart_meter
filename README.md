@@ -4,7 +4,7 @@
 
 * Arduino (UNO/Nano with ETS LoRa Shield)
 * Relay Module (5V)
-* ACS712 Current Sensor
+* ACS712 Current Sensor 
 * ZMPT101B Voltage Sensor
 * 16x2 LCD
 * MFRC522 RFID Module
